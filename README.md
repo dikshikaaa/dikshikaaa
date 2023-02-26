@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I'm Dikshika Dweepanita
 
 - 🔭 I’m currently working on my ML Projects
 - 🌱 I’m learning Python, Java and R
