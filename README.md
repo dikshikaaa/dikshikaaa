@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Dikshika Dweepanita
-
+- You can find my portfolio here - https://dikshikaaa.github.io/Portfolio/
 - 🔭 I’m currently working on my ML Projects
 - 🌱 I’m learning Python, Java and R
 - 💬 You can read my articles at: https://medium.com/@dweepanitadikshika
